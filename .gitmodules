@@ -1,3 +1,6 @@
-[submodule "cpr"]
-	path = cpr
+[submodule "opt/cpr"]
+	path = opt/cpr
 	url = git@github.com:whoshuu/cpr.git
+[submodule "opt/rapidjson"]
+	path = opt/rapidjson
+	url = git@github.com:miloyip/rapidjson.git

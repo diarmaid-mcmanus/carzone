@@ -31,7 +31,7 @@ endif()
 
 
 # add subdirectory then library TODO temp disable
-add_subdirectory(cpr)
+add_subdirectory(opt)
 
 add_executable(carzone carzone.cpp)
 
